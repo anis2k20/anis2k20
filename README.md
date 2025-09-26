@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anis2k20" alt="anis2k20" /></a> </p>
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **PHP/Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anis2k20](https://github.com/anis2k20)
 
