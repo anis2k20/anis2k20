@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anis2k20](https://github.com/anis2k20)
 
-- 💬 Ask me about **Javascript, Alpine js, tailwind CSS**
+- 💬 Ask me about **Javascript, Vue js, Alpine js, tailwind CSS**
 
 - 📫 How to reach me **mdanismia992@gmail.com**
 
